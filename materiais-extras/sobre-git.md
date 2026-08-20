@@ -32,6 +32,6 @@ O Github Desktop é uma das inumeras alternativas gráficas que podem ser utiliz
 
 ## Extras
 
-- [Entendendo como o Git funciona](https://www.youtube.com/watch?v=6Czd1Yetaac) Neste vídeo o FAbio Akita explica os princípios do Git  e como ele funciona por baixo dos panos
+- [Entendendo como o Git funciona](https://www.youtube.com/watch?v=6Czd1Yetaac) Neste vídeo o Fabio Akita explica os princípios do Git  e como ele funciona por baixo dos panos
 - [Usando Git Direito](https://www.youtube.com/watch?v=6OokP-NE49k) Neste vídeo Fabio Akita mostra algumas boas práticas de uso do Git. Ele também ensina a manter a organização do seu repositório do Git.
 - [So You Think You Know Git](https://www.youtube.com/watch?v=aolI_Rz0ZqY) Palestra que mostra alguns recursos não tão conhecidos do Git.
